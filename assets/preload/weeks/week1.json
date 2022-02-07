@@ -1,22 +1,48 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "Back Alley Blitz",
+	"hideFreeplay": false,
+	"weekBackground": "WhiteOG",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
+		"WhiteOG",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"lo-fight",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"overhead",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"ballistic",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "bab"
 }

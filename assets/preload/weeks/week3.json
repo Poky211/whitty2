@@ -1,22 +1,31 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "Low Rise",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "weekbonus2",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"pico",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"Low-Rise",
+			"White",
+			[
+				26,
+				213,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Low Rise"
 }

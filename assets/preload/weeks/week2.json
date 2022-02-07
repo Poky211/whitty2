@@ -1,22 +1,31 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "Just Like Old Times",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "weekbonus",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"spooky",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Underground",
+			"White",
+			[
+				26,
+				213,
+				235
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Just Like Old Times"
 }
